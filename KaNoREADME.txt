@@ -1,9 +1,1 @@
-Hello, and welcome to KaNoLearns. 
-
-We're here to track the progress of KaNo's leveling up in the Computer skill. 
-
-Hope you enjoy. 
-
-Much love,
-KaNo
-
+Under construction. I'll have more info about this project here soon. For now, here's the link to the actual project:
