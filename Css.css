@@ -1,9 +1,30 @@
-body {
+h1  {
+    font-family: "Arial", sans-serif;
+}
+
+.heroImage {
     background-image: url("KaNoHero.JPG");
+    width: 100vw;
+    height: 100vh;
     background-size: cover;
     background-color: teal;
-    ul {
-        background-color: gray;
     }
-    }
+.heroText   {
+    width: 100vw;
+    height 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: #fefff5'
+    text-color: #2a3234;
+}
+.summary    {
+    border: 1px black;
 }
