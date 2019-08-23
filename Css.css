@@ -30,3 +30,8 @@ h1  {
 .summary    {
     border: 1px black;
 }
+
+.kano   {
+    text-decoration: none;
+    color: white;
+}
